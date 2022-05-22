@@ -1,0 +1,15 @@
+<svg width="563" height="495" viewBox="0 0 563 495" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M273 14L434 258.873L273 310L112 258.873L273 14Z" fill="black"/>
+<path d="M272.964 482L444 285L272.964 341.569L116 285L272.964 482Z" fill="black"/>
+<path d="M274 14L266.5 200.833L112 261L274 14Z" fill="#565656"/>
+<path d="M272.238 14L434 261L264 200.29L272.238 14Z" fill="#333333"/>
+<path d="M265.788 199L274 310L112 258.865L265.788 199Z" fill="#3C3C3C"/>
+<path d="M264 199L434 259.433L272.908 310L264 199Z" fill="#212121"/>
+<path d="M116 285L274 341.827V482L116 285Z" fill="#595959"/>
+<path d="M444 285L274 482V341.196L444 285Z" fill="#424242"/>
+<path d="M179.192 217.827L212.363 138.444L264.98 262.563L179.192 217.827Z" fill="white" stroke="#EA7E00" stroke-width="5"/>
+<path d="M345.902 210.225L316.874 138.566L265.39 261.595L345.902 210.225Z" fill="white" stroke="#EA7E00" stroke-width="5"/>
+<path d="M235.456 188.353L214.635 140.071L255.793 175.808L235.456 188.353Z" fill="white" stroke="#EA7E00" stroke-width="5"/>
+<path d="M292.358 189.366L312.994 139.055L268.364 175.047L292.358 189.366Z" fill="white" stroke="#EA7E00" stroke-width="5"/>
+<line x1="251" y1="176.5" x2="271" y2="176.5" stroke="#EA7E00" stroke-width="5"/>
+</svg>
